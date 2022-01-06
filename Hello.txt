@@ -10,6 +10,7 @@ export default function CheckoutSteps(props) {
             <div className={props.step3 ? 'active' : ''}>Place Order</div>
 
             
+            <div className="fehmemi_did_this">
         </div>
     )
 }
