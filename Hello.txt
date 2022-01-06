@@ -13,7 +13,6 @@ export default function CheckoutSteps(props) {
             <div className={props.step3 ? 'active' : ''}>Place Order
 			<a href={ref}>hello</a></div>
 
-            
-        </div>
-    )
+            dghdh
+    
 }
